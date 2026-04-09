@@ -96,4 +96,4 @@ The grouped query (`GET /inventory`) utilizes the MongoDB `$lookup` pipeline to 
 
 
 
-*(Add screenshots of your locally running UI and Postman API tests here before submitting)*
+
