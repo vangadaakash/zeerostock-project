@@ -88,4 +88,12 @@ The grouped query (`GET /inventory`) utilizes the MongoDB `$lookup` pipeline to 
 ---
 
 ## 📸 Screenshots
+<img width="1918" height="968" alt="image" src="https://github.com/user-attachments/assets/a7a284be-c9dc-4a1a-af40-08be0113e2fd" />
+<img width="1912" height="977" alt="image" src="https://github.com/user-attachments/assets/d2439699-fbdf-4ea2-b34c-d04554f1d4f5" />
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/cfbc1846-2e4a-4a74-a7b7-3462b78b85ab" />
+<img width="1875" height="974" alt="image" src="https://github.com/user-attachments/assets/a6c212cb-6265-482a-b60e-424c1c751c61" />
+
+
+
+
 *(Add screenshots of your locally running UI and Postman API tests here before submitting)*
